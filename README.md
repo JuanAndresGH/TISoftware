@@ -1,2 +1,2 @@
 # TISoftware
-almacenamiento de archivos del proyecto
+almacenamiento de archivos del proyecto semana7
